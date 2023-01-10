@@ -1,7 +1,7 @@
 # <challenge-google-clone>
 
 
-    ![Screenshot](https://user-images.githubusercontent.com/112288921/211671694-2e00ba8b-f707-4c25-84b9-8f716c6c6629.png)
+![google-clone](/google_clone/img/Screenshot.png?raw=true "Google clone")
 
     
 ##What
