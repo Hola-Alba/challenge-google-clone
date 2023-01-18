@@ -24,11 +24,11 @@ can read without a headache. And because CSS is great!
 
 ---
     
-@aluralatam Christian Paul Velasco Algaranaz - Head of Alura Latam
+@degranda - @platzi
 
     
 ## License
 
 ---
 
-MIT License. Copyright (c) [2022] [Alura]
+MIT License. Copyright (c) [2019] [Platzi]
